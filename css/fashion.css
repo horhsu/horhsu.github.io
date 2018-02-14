@@ -260,7 +260,8 @@ object {
 	}
 .site-title {
 	margin: 0;
-	font-size: 48px;
+	/*font-size: 48px;*/
+	font-size: 42px;
 	font-family: Oswald, "Microsoft Yahei", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	line-height: 1em;
@@ -411,7 +412,9 @@ object {
 
 #main-navigation {
 	border: solid #333;
-	border-width: 1px 0 3px;
+	/*border-width: 1px 0 3px;*/
+	border-width: 0px 0 3px;
+	margin-top: 10px;
 	}
 #main-navigation li a {
 	padding: 0 20px;
